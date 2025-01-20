@@ -13,4 +13,12 @@ Spend no more than 2 hours on this assignment.
 
 ## Agent Logic
 
-![AI Logic]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/irene-midnight-datalog/homelight_prompt/edit/main/ai_logic.png))
+![AI Logic](https://github.com/irene-midnight-datalog/homelight_prompt/blob/main/ai_logic.png)
+
+Fetch from the postgres database the names of the real estate agents whose payments we have not collected yet. If there are multiple people, just pick the first one. Check your email and see if you have emailed the real estate agent (REA) before. If you have never contacted them, send them a friendly reminder with the payment information (listing address, listing price and commission percentage). 
+
+If you have contacted the REA before, check if there are any new messages from them and read them, but if there aren’t new messages send another reminder. 
+
+If there are new messages from the REA and they are asking for more information about the payment, fetch the necessary information from the postgres database and send them a new email with the information.
+
+If there are new messages and the REA is promising to send their payment via check or another payment form, send an email thanking them, run a sql query to update the payment status of this listing in the database to 'True' and print the database table only including the real estate agents emails and payment status. 
