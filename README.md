@@ -11,6 +11,11 @@ Design an operational flow using AI tools that exist today to do the following:
 + Any sort of prototypes using AI Agents highly encouraged.
 + Spend no more than 2 hours on this assignment.
 
+## Media
+
++ [Google Slides](https://docs.google.com/presentation/d/1_80b99QuUklZXiWYUTqKcES_oJWdn5KnCqCZff22U88/edit?usp=sharing)
++ [Video demonstration](https://youtu.be/vEXMdS4deBA)
+
 ## Agent Logic
 
 ![AI Logic](https://github.com/irene-midnight-datalog/homelight_prompt/blob/main/ai_logic.png)
