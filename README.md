@@ -14,7 +14,7 @@ Design an operational flow using AI tools that exist today to do the following:
 ## Media
 
 + [Google Slides](https://docs.google.com/presentation/d/1_80b99QuUklZXiWYUTqKcES_oJWdn5KnCqCZff22U88/edit?usp=sharing)
-+ [Video demonstration](https://youtu.be/vEXMdS4deBA)
++ [Video demonstration](https://youtu.be/DoHkLoj8HPY)
 
 ## Agent Logic
 
